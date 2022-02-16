@@ -6,3 +6,8 @@ sbcszdbcjhsbzdchfb\
 Hello World
 Welcome To Capgemini
 
+<<<<<<< HEAD
+=======
+How are you?
+gvxvgxdgvxdf
+>>>>>>> 96f0e289cdff5f4ed0b881c255effdd1c648f1b0
